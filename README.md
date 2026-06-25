@@ -43,39 +43,39 @@ Results were visualised in Tableau (see `/charts`).
 
 The data tells one consistent story: **members commute, casuals ride for leisure.**
 
-### Members ride more often, casuals ride longer
+### Ride frequency and duration
 
 Members take far more rides but much shorter ones. Casual riders averaged
 roughly twice the ride length of members. Members are frequent and short;
 casuals are occasional and long.
 
-![Members ride more often and casuals ride longer](charts/01_rider_contrast.png)
+<img src="charts/01_rider_contrast.png" width="430">
 
-### Members ride on weekdays, casuals on weekends
+### Weekday versus weekend
 
 Member rides peak on weekdays and dip on weekends. Casual rides do the
-opposite, peaking on Saturday and Sunday. This is a clear weekday commuter
-versus weekend leisure split.
+opposite, peaking on Saturday and Sunday: a clear weekday commuter versus
+weekend leisure split.
 
-![Members ride on weekdays and casuals on weekends](charts/02_rides_by_day.png)
+<img src="charts/02_rides_by_day.png" width="430">
 
-### Members ride at commute times, casuals through the afternoon
+### Time of day
 
 Members show sharp peaks around 8am and 5pm, matching a commute pattern.
 Casual rides build through late morning into the afternoon, matching leisure
 use.
 
-![Members ride at commute times and casuals through the afternoon](charts/03_rides_by_hour.png)
+<img src="charts/03_rides_by_hour.png" width="760">
 
-### Casual riding peaks in summer, members ride year round
+### Seasonal patterns
 
 Casual riding is highly seasonal, swinging from a quiet winter to a busy
 summer, while member riding stays far steadier across the year. Casual riders
 are largely fair weather riders.
 
-![Casual riding peaks in summer and members ride year round](charts/04_rides_by_season.png)
+<img src="charts/04_rides_by_season.png" width="430">
 
-### Casuals start at tourist stations, members at commuter hubs
+### Top starting stations
 
 The starting locations separate the two groups clearly. Top casual stations are
 tourist and waterfront destinations (for example DuSable Lake Shore Drive, Navy
